@@ -322,8 +322,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 For questions, issues, or collaborations, please contact:
-- **Email**: [your-email@domain.com]
-- **GitHub**: [your-github-username]
+- **Email**: dassidharthasekhar@gmail.com
+- **GitHub**: [github.com/Sid-das-2023]
 
 ---
 
